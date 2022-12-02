@@ -1,4 +1,5 @@
 {
+  "@context":"https://github.com/bert-packed/FOMUs-gevaert-data/blob/main/gevaert-product-context.jsonld",
   "@type":"PropositionalObject",
   "hasType":[{
     "@type":"Type",
